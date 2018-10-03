@@ -18,8 +18,8 @@
             ![neg-0002](https://user-images.githubusercontent.com/28443900/46442496-1bb35b00-c76a-11e8-8202-078d2faf8574.jpg)<br>
             and can download more from [here](https://github.com/JoakimSoderberg/haarcascade-negatives)<br>
       
-        
-        
+  * Second :- Creating Samples of positive and negative image and choose all parameter to complete it like <br>
+    - bgcolor , bgthresh , maxxangle , maxyangle , maxzangle , maxidev , width , height.<br>
  
  # Requirement
    Install Python 2.7 from [here](https://www.python.org/download/releases/2.7/) <br>
