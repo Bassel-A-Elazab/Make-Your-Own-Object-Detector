@@ -9,7 +9,9 @@
  # instructions
   There are many steps to create your own classifier. <br>
     * First : - we need a sample that divided into two parts. <br>
-      - Positive Image (the object you want to detect) like ![this](https://user-images.githubusercontent.com/28443900/46442315-86b06200-c769-11e8-8b31-b6b4494d232c.jpg)<br>
+        - Positive Image (the object you want to detect) like 
+        ![this](https://user-images.githubusercontent.com/28443900/46442315-86b06200-c769-11e8-8b31-b6b4494d232c.jpg)<br>
+        
  
  # Requirement
    Install Python 2.7 from [here](https://www.python.org/download/releases/2.7/) <br>
