@@ -7,7 +7,7 @@
   Use the CascadeClassifier class to detect objects in a video stream. <br>
  
  # instructions
-  There are many steps to create your own classifier. <br>
+ There are many steps to create your own classifier. <br>
     * First : - we need a sample that divided into two parts. <br>
             * Positive Image (the object you want to detect) like <br>
             ![pos1](https://user-images.githubusercontent.com/28443900/46442315-86b06200-c769-11e8-8b31-b6b4494d232c.jpg)<br>
