@@ -22,7 +22,7 @@
     - bgcolor , bgthresh , maxxangle , maxyangle , maxzangle , maxidev , width , height.<br>
   
   * Third :- Training the classifier with positive & negative images after take your sample from last step with specific parameters. <br>
-    - numStages , minHitRate , maxFalseAlarmRate , numPos , numNeg , mode , precalcValBufSize , precalcIdxBufSize , w, h.<br>
+    - numStages , minHitRate , maxFalseAlarmRate , numPos , numNeg , mode , precalcValBufSize , precalcIdxBufSize , width , height.<br>
  
  # Requirement
    Install Python 2.7 from [here](https://www.python.org/download/releases/2.7/) <br>
