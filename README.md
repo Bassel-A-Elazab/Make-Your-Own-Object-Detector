@@ -24,6 +24,10 @@
   * Third :- Training the classifier with positive & negative images after take your sample from last step with specific parameters. <br>
     - numStages , minHitRate , maxFalseAlarmRate , numPos , numNeg , mode , precalcValBufSize , precalcIdxBufSize , width , height.<br>
  
+ * Four (Last Step) :- there is output file with extension xml we use it later to detect your custom object.<br>
+   --> i use the "xml" file in "detect.py" to detect banana 
+   - Note :- all details in references how many positive and negative images ? how i choose all parameters that mentioned it 
+     above and other.<br>
  # Requirement
    Install Python 2.7 from [here](https://www.python.org/download/releases/2.7/) <br>
    Install OpenCV from [here](https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/) <br>
