@@ -1,4 +1,4 @@
-# Make-Your-Own-Object-Detector
+# Make-Your-Own-Object-Detector using Haar Cascade (Python & OpenCv)
 # Introduction
   The OpenCV library provides us a greatly interesting demonstration for a face detection. <br>
   Furthermore, it provides us programs (or functions) that they used to train classifiers for their face detection system, <br>
