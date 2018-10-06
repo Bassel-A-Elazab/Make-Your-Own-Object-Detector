@@ -46,4 +46,5 @@
  4. http://www.computer-vision-software.com/blog/2009/11/faq-opencv-haartraining/
  5. http://amin-ahmadi.com/cascade-trainer-gui/
    
-  
+# For Contact :- 
+bassel.alazab@gmail.com
