@@ -39,6 +39,11 @@
      
    * if you like linux you can follow [this](https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html)<br>
    
-   
+ # References
+ 1. http://note.sonots.com/SciSoftware/haartraining.html
+ 2. https://docs.opencv.org/2.4/doc/tutorials/objdetect/cascade_classifier/cascade_classifier.html
+ 3. https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html
+ 4. http://www.computer-vision-software.com/blog/2009/11/faq-opencv-haartraining/
+ 5. http://amin-ahmadi.com/cascade-trainer-gui/
    
   
