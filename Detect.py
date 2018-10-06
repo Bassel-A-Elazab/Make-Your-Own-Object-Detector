@@ -1,6 +1,6 @@
 import numpy as np
 import cv2
-Custome_Object = cv2.CascadeClassifier(' path of haar cascade  file ".xml" ')
+Custome_Object = cv2.CascadeClassifier('banana_haar_cascade.xml')
 cap = cv2.VideoCapture(0)
 if (cap.isOpened()== False): 
   print("Error opening Camera")
